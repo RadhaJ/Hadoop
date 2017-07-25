@@ -1,4 +1,4 @@
-# Cloud-Assignment-4
+# Hadoop
 Utilize Hadoop for Dataset Analysis
 
 
@@ -7,7 +7,7 @@ In this project Hadoop streaming API is used to build mapper and reducer scripts
 Run the following commands in order to run the program:
 
 1)Clone the program from github URL 
-git clone https://github.uc.edu/jarubura/Cloud-Assignment-4
+git clone https://github.com/jarubura/Hadoop
 
 2)Run the below command in order to retrieve the log:
 
